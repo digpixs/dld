@@ -1,0 +1,65 @@
+#slider {
+    position: relative;
+    overflow: hidden;
+    margin: 10px auto 10px auto;
+    border-radius: 10px;
+    float: none;
+}
+
+#slider ul {
+  position: relative;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  list-style: none;
+}
+
+#slider ul li {
+  position: relative;
+  display: block;
+  float: left;
+  margin: 0;
+  padding: 0;
+  width: 550px;
+  height: 150px;
+  text-align: center;
+  line-height: 300px;
+}
+
+a.control_prev, a.control_next {
+  position: absolute;
+  top: 5%;
+  z-index: 99;
+  display: block;
+  padding: 4% 3%;
+  width: auto;
+  height: auto;
+  background: #2a2a2a;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 18px;
+  opacity: 0.8;
+  cursor: pointer;
+}
+
+a.control_prev:hover, a.control_next:hover {
+  opacity: 5;
+  -webkit-transition: all 0.2s ease;
+}
+
+a.control_prev {
+  border-radius: 10px 0 0 10px;
+}
+
+a.control_next {
+  right: 0;
+  border-radius: 0 10px 10px 0;
+}
+
+#testmon1 {
+    position: absolute;
+    width: 100%;
+    max-width: 650px;
+    float: none;
+}

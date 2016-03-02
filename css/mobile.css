@@ -1,0 +1,457 @@
+* {
+    margin: 0 auto;
+}
+
+html,
+body {
+    background-image: url(../img/dsd_bkg_dk.jpg);
+} 
+
+h1 {
+    margin: 0 auto;
+    font-size: 1.25em;
+    text-align: center;
+    width: 100%;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+h2 {
+        width: 100%;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+h4 {
+    margin: auto;
+    font-size: 1em;
+    width: 90%;
+    padding: 4px;
+}
+
+p {
+    font-size: .9em;
+}
+
+img {
+    margin: 0px auto;
+    max-width: 100%;
+}
+
+
+
+
+/* CSS class mods */
+
+.header_img {
+    width: 80%;
+    max-width: 350px;
+    position: relative;
+    background-image: url(../img/mob_logo.png);
+    float: none;
+}
+
+.header_hp_con {
+    height: 280px;
+    background-color: #858158;
+    border-bottom: 1px solid #e1cb9e;
+}
+
+.header {
+    height: 115px;
+}
+
+.header_con {
+    width: 100%;
+    
+}
+
+.footer {
+    height: 200px;
+}
+
+.footer_ele {
+    width:100%;
+    padding: 5px;
+    float: none;
+    text-align: center;
+}
+
+.footer_ele img {
+    max-width: 70%;
+}
+
+.footer_add {
+    width: 100%;
+    text-align: center;
+}
+
+.org {
+    margin: 0 auto;
+    text-align: center;
+    width: 100%;
+    float: none;
+}
+
+.org img{
+    max-width: 100%;
+}
+
+
+
+/* CSS id mods */
+
+#aso_block {
+	margin: 0 auto;
+    width: 100%;
+    max-width: none;
+	float: none;
+    border:none;
+}
+
+#aso_block img {
+    max-width: 50%;
+    padding-bottom: 5%;
+} 
+
+#aso {
+	margin: 5px auto;
+    width: 100%;
+    height: 100%;
+	float: left;
+    padding: 0;
+}
+
+#bio_pic {
+	text-align: center;
+    float: none;
+}
+
+#bio_bic {
+    margin: 0 auto;
+    width: 95%;
+    height: 200px;
+}
+
+#bio_ter {
+	margin: 0 auto;
+    width: 95%;
+	float: none;
+}
+
+#bio_about {
+	margin: 0 auto;
+    width: 95%;
+	float: none;
+    padding: 5px;
+}
+
+#blog {
+    margin: 0;
+    width: 100%;
+    min-height: 375px;
+    padding: 15px 0 15px 0;
+    float: none;
+    overflow: hidden;
+}
+
+#baby_pic {
+	width: 45%;
+    float: left;
+    padding: 10px 0 10px 10px;
+}
+
+#calendar {
+	margin: 15px auto;
+    text-align: center;
+    width: 90%;
+	float: none;
+}
+
+#carousel {
+    position: absolute;
+    width: 100%;
+    top: 60px;
+}
+
+#con_smile {  
+    margin: 5px auto;
+    width: 100%;
+    height: 525px;
+    background:#b9b7a0;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+#dld_logo {
+    margin: 0 auto;
+    width: 70%;
+    float: none;
+}
+
+#dld_num_hp {
+    margin: 0px auto;
+    position: relative;
+    top:3%;
+    font-size: 1.60em;
+    text-shadow: black 4px 4px 8px;
+    text-align: center;
+    color:white;  
+    float: none; 
+    padding-right: 0;
+}
+
+#dld_num {
+    margin: 0px auto;
+    width: 100%;
+    font-size: 1.5em;
+    text-align: center;
+    float: none; 
+}
+
+#form_con {
+	margin: auto;
+    width: 92%;
+    height: 100%;
+    max-width: 350px;
+    float: none;
+    padding: 0px;
+    -webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+#form_con input {
+    width: 90%;
+}
+
+#form_con2 {
+    text-align: center;
+	width: 90%;
+}
+
+#form_label {
+    width: 100%;
+}
+
+#form_send {
+    padding: 0 0 15px 10px;
+}
+
+#info_bf {
+    padding-top: 15px;
+    width: 90%;
+    float: none;
+}
+
+#info_hp {  
+    width: 95%;
+    padding: 5%;
+}
+
+#hp_greet {
+    width: 90%;
+    height: 100%;
+    float: none;
+}
+
+#blr_testimonials {
+    min-width: 250px;
+}
+
+#map {
+    width: 100%;
+    float: none;
+    padding: 15px 0 0 0;
+}
+
+#nav_hp {
+	height: 0px;
+}
+
+#page_info {
+    position: relative;
+    width: 100%;
+    float: none;
+    padding: 0 0 0 0;
+}
+
+#serv {
+	margin: 10px auto;
+    width: 100%;
+    height: 750px;
+    max-width: 100%;
+	float: left;
+}
+
+#serv_desc{
+    margin: 5px auto;
+    width: 95%;
+	padding: 10% 0 10% 0;
+}
+
+#serv_desc p {
+    font-size: 1em;
+}
+
+#serv_desc li {
+    margin: 0  auto;
+    width: 80%;
+}
+
+#servs li {
+    font-size: 1.75em;
+}
+
+#sidebar {
+    bottom: auto;
+    margin: 20px auto;
+    width: 100%;
+    height: 750px;
+    float: right; 
+}
+
+#slider ul li {
+  width: 320px;
+  text-align: center;
+}
+
+#slider ul li img {
+    width: 80%;
+}
+
+#slideshow img {
+    box-shadow: 0px 5px 9px rgba(0, 0, 0, 0.4);
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+}
+
+#soc_media {
+    width: 100%;
+    padding: 10px;
+    float: left;
+}
+
+#test_hp {
+    width: 95%;
+    height: 350px;
+    float: left;
+    margin: 0px;
+    border-radius: 0px;
+
+}
+
+#test_hp #blr_testimonials .blr_body {
+    width: 100%;
+}
+
+#test_lg {
+    margin: 0 auto;
+    width: 100%;
+    height: 350px; 
+    float: left;
+}
+
+#test_lg #blr_testimonials .blr_body {
+    width: 250px;
+}
+
+a.control_prev, a.control_next {
+top: 60%;
+}
+
+@media only screen and (min-width: 450px) and (max-width: 768px) {
+    
+    .header_hp_con {
+    height: 350px;
+    background-color: #858158;
+    border-bottom: 1px solid #e1cb9e;
+    z-index: 10000;
+}
+    
+    .header_img {
+    width: 80%;
+    max-width: 350px;
+    position: relative;
+    background-image: url(../img/mob_logo.png);
+    float: left;
+}
+    
+    #aso {
+	margin: 5px auto;
+    text-align: center;
+    width: 100%;
+	float: left;
+    padding: 10px;
+}
+    
+    #info_hp { 
+    margin: 0  auto;
+    width:  50%;
+    padding: 15px;
+}
+    
+    #bio_pic {
+	text-align: center;
+    float: left;
+}
+    
+    #dld_logo {
+    width: 50%;
+    float: left;
+}
+    
+    #dld_num_hp {
+    margin: 0px auto;
+    position: relative;
+    top: 10px;
+    font-size: 1.30em;
+    text-shadow: black 4px 4px 8px;
+    text-align: right;
+    color:white;  
+    float: right; 
+    padding-right: 10px;
+}
+    
+    #form_con {
+	width: 30%;
+    height: 100%;
+    float: left;
+	background:#b9b7a0;
+    text-align: left;
+	padding: 5px;
+    margin-bottom: 15px;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+}
+    
+    #slider ul li {
+    position: relative;
+    display: block;
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 400px;
+    height: 150px;
+    text-align: center;
+    line-height: 10px;
+}
+    
+    #serv {
+	margin: 10px auto;
+    width: 40%;
+    max-width: 100%;
+	float: right;
+    padding: 10px;
+}
+    
+    #servs li {
+    font-size: 1.25em;
+}
+  
+}
