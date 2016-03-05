@@ -26,6 +26,7 @@
     <!-- End Facebook Pixel Code -->
 </head>
 		<script async src="//69038.tctm.co/t.js"></script>
+		<script src="http://www.qualifiedchat.net/scripts/invitation.ashx?company=dayspringlaserdentistry"></script>
 <body>
 
 <div class="header_hp">

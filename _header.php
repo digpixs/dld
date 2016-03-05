@@ -28,6 +28,7 @@
 
 </head>
 	<script type="text/javascript" src="//cdn.callrail.com/companies/226972230/332ee3474b96b5ee065f/12/swap.js"></script>
+  <script src="http://www.qualifiedchat.net/scripts/invitation.ashx?company=dayspringlaserdentistry"></script> 
 <body>
 <div class="header">
     <div class="header_con">
