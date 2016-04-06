@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="css/mainbody.css"/>
     <link rel="stylesheet" media="(max-width: 768px)" href="css/mobile.css" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Dayspring Laser Dentistry, one of the best dental care centers in Turnersville, NJ, offers porcelain onlays to repair and restore broken teeth. Call us today.">
+    <meta name="description" content="Dayspring Laser Dentistry- Come experience dentistry that is different from anything you have experienced before.">
     <meta name="keywords" content="dentist turnersville nj, laser dentistry turnersville porcelain dental onlays turnersville nj, broken teeth repair turnersville">
 	<link rel=”publisher” href=”https://plus.google.com/101419935376583771841/about?hl=en“>
 	<title>Dentist Turnersville NJ | Laser Dentistry Turnersville</title>
@@ -58,7 +58,9 @@
 
     <div id="serv"><?php include '_services.php'; ?></div>
 
-    <div id="test_hp"><div id="blr_testimonials"></div></div>
+    <div id="test_hp">
+			<div id="blr_testimonials"></div>
+		</div>
 
 </div>
 <?php include '_footer.php'; ?>

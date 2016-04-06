@@ -1,7 +1,7 @@
 <? $title_tag = 'Oral Surgery - Dayspring Laser Dentistry 856-875-8400'; ?>
+<? $pageMeta = 'Minimally invasive dental surgery performed with the Waterlase laser. '; ?>
 
-
-<?php include '_header.php'; ?> 
+<?php include '_header.php'; ?>
 <div id="page_info">
 	<div id="serv_desc">
 
@@ -12,4 +12,4 @@
     <?php include '_services.php'; ?>
 </div>
 </div>
-<?php include '_footer.php'; ?>	
+<?php include '_footer.php'; ?>

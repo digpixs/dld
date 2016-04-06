@@ -1,7 +1,7 @@
 <? $title_tag = 'Root Canal Turnersville NJ | Dayspring Laser Dentistry'; ?>
-<meta name="description" content="Are you experiencing tooth paint and think you need a root canal? Call us today at (856) 875-8400 for a pain free laser root canal in Turnersville NJ!">
+<? $pageMeta = 'Laser technology brings comfort to one of the most dreaded dental procedures.'; ?>
 
-<?php include '_header.php'; ?> 
+<?php include '_header.php'; ?>
 <div id="page_info">
 <div id="serv">
     <?php include '_services.php'; ?>
@@ -15,4 +15,4 @@
 </div>
 
 
-<?php include '_footer.php'; ?>	
+<?php include '_footer.php'; ?>

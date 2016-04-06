@@ -1,5 +1,5 @@
 <? $title_tag='Orthodontist Turnersville NJ | 6 month Braces' ; ?>
-<meta name="description" content="Do you or your child need braces in the Turnersville NJ area? Call us today at (856) 875-8400 to book an appointment for all of your orthodontic needs!">
+<? $pageMeta = 'Get the smile you have always dreamed of, whether you are a teen or an adult.  All phases of orthodontics including clear aligners.'; ?>
 
 
 <?php include '_header.php'; ?>

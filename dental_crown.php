@@ -1,9 +1,9 @@
 <? $title_tag = 'Dental Crown Turnersville | Root Canal Dentist Turnersville'; ?>
-<? $pageMeta = 'Our cosmetic dentists in Turnersville, New Jersey are adept in placing dental crowns to restore damaged teeth, due to decay or trauma. Contact us today.'; ?>
+<? $pageMeta = 'Severely fractured or decayed teeth require crowns or "caps" to be returned to normal, healthy function.'; ?>
 <? $pageKeywords ='dental crown turnersville, root canal dentist turnersville' ;?>
 
 
-<?php include '_header.php'; ?> 
+<?php include '_header.php'; ?>
 
 <div id="page_info">
 <div id="serv">
@@ -18,4 +18,4 @@
 </div>
 
 
-<?php include '_footer.php'; ?>	
+<?php include '_footer.php'; ?>

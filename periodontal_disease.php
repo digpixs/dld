@@ -1,5 +1,5 @@
 <? $title_tag = 'About Us - Dayspring Laser Dentistry 856-875-8400'; ?>
-
+<? $pageMeta = 'Do not let gum disease steal your smile!  We treat gum disease effectively and non-surgically with the Waterlase laser.'; ?>
 
 <?php include '_header.php'; ?> 
 
@@ -15,4 +15,4 @@
     <?php include '_services.php'; ?>
 </div>
 </div>
-<?php include '_footer.php'; ?>	
+<?php include '_footer.php'; ?>

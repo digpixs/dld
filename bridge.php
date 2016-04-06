@@ -1,9 +1,9 @@
 <? $title_tag = 'Dental Bridges Turnersville NJ | Dayspring Dentistry'; ?>
-<? $pageMeta = 'Our cosmetic dentists in Turnersville, New Jersey help you restore your smile and avoid risks associated with missing teeth, using dental bridges. Call us today.'; ?>
+<? $pageMeta = 'Missing teeth can be replaced with non-removable bridges that look and feel like real teeth!'; ?>
 <? $pageKeywords ='dental bridges turnersville, dental implants turnersville ' ;?>
 
 
-<?php include '_header.php'; ?> 
+<?php include '_header.php'; ?>
 
 <div id="page_info">
 <div id="serv">
@@ -18,4 +18,4 @@
 
 
 
-<?php include '_footer.php'; ?>	
+<?php include '_footer.php'; ?>

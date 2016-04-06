@@ -1,8 +1,8 @@
 <? $title_tag = 'Laser Sealant Turnersville | Laser Root Canal Turnersville'; ?>
-<? $pageMeta = 'Dayspring Laser Dentistry offers sealant, root canal and periodontal therapies in Turnersville, New Jersey. Call us at (856) 875-8400 to schedule an appointment.'; ?>
+<? $pageMeta = 'Dental sealants prevent decay.  The laser produces a longer lasting dental sealant that we guarantee for 5 years against decay.'; ?>
 <? $pageKeywords ='laser root canal turnersville, laser sealant turnersville' ;?>
 
-<?php include '_header.php'; ?> 
+<?php include '_header.php'; ?>
 
 <div id="page_info">
 	<div id="serv_desc">
@@ -14,4 +14,4 @@
     <?php include '_services.php'; ?>
 </div>
 </div>
-<?php include '_footer.php'; ?>	
+<?php include '_footer.php'; ?>

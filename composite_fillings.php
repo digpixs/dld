@@ -1,8 +1,8 @@
-<? $title_tag = 'Composite Fillings Turnersville | Dentist Turnersville NJ'; ?>
-<? $pageMeta = 'Our cosmetic dentists in Turnersville, New Jersey help restore your teeth and give you an improved smile with composite fillings. Call Dayspring Laser Dentistry.'; ?>
+<? $title_tag = 'Cosmetic Fillings Turnersville | Dentist Turnersville NJ'; ?>
+<? $pageMeta = 'Composite resins strengthen teeth and do not contain mercury as silver amalgams do.'; ?>
 <? $pageKeywords ='composite fillings turnersville, dentist turnersville nj' ;?>
 
-<?php include '_header.php'; ?> 
+<?php include '_header.php'; ?>
 
 <div id="page_info">
 <div id="serv">
@@ -18,4 +18,4 @@
 </div>
 
 
-<?php include '_footer.php'; ?>	
+<?php include '_footer.php'; ?>

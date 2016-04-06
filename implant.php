@@ -1,5 +1,5 @@
 <? $title_tag='Dental Implants Turnersville NJ | Dayspring Dentistry' ; ?>
-<meta name="description" content="Thinking of getting a dental implant and live in the Turnersville area? Call us today at (856) 875-8400 to book a consultation!">
+<? $pageMeta = 'All phases of tooth replacement from implant placement to implant restoration.  Replace one tooth or all of them with natural feeling implants!'; ?>
 
 <?php include '_header.php'; ?>
 

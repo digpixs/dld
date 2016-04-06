@@ -1,5 +1,5 @@
 <? $title_tag='Teeth Whitening Turnersville NJ | Dayspring Dentistry' ; ?>
-<meta name="description" content="Call us today at (856) 875-8400 or visit our website for more information on our teeth whitening service in Turnersville NJ!">
+<? $pageMeta = 'White smiles are not just for movie stars!  Get the smile of your dreams with one of our whitening packages!'; ?>
 
 <?php include '_header.php'; ?>
 
