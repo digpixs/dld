@@ -1,16 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
     <title><? echo $title_tag; ?></title>
     <meta name="description" content="<?php echo $pageMeta; ?>">
     <meta name="keywords" content="<?php echo $pageKeywords; ?>">
-    <link REL=”SHORTCUT ICON” HREF=”http://www.dayspringlaserdentistry.com//favicon.ico”>
-    <link rel="stylesheet" href="css/smileslide.css"/>
-    <link rel="stylesheet" href="css/mainbody.css"/>
-    <link rel="stylesheet" media="(max-width: 650px)" href="css/mobile.css" />
+
+    <link rel="stylesheet" href="css/main.css"/>
+    <link rel=”publisher” href=”https://plus.google.com/101419935376583771841/about?hl=en“>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta charset="utf-8">
-	  <link rel=”publisher” href=”https://plus.google.com/101419935376583771841/about?hl=en“>
+    <meta charset="UTF-8">
+
     <!-- Facebook Pixel Code -->
         <script>
         !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
@@ -26,18 +25,27 @@
         /></noscript>
     <!-- End Facebook Pixel Code -->
 
+
+
 </head>
-	<script type="text/javascript" src="//cdn.callrail.com/companies/226972230/332ee3474b96b5ee065f/12/swap.js"></script>
-  <script src="http://www.qualifiedchat.net/scripts/invitation.ashx?company=dayspringlaserdentistry"></script> 
+
+    <script type="text/javascript" src="//cdn.callrail.com/companies/226972230/332ee3474b96b5ee065f/12/swap.js"></script>
+    <script src="http://www.qualifiedchat.net/scripts/invitation.ashx?company=dayspringlaserdentistry"></script>
+
+
 <body>
 <div class="header">
-    <div class="header_con">
-    <div id="dld_logo"><a href="index.php"><img src="img/mob_logo.png"></a></div>
-    <div id="dld_num"><h4>Office: 856-875-8400<br>Emergency: 609-221-2964</h4></div>
+  <div class="headerWrap">
+    <div id="blockCo">
+      <div id="titleCo">Dayspring Laser Dentistry</div>
+      <div id="titleName">Because Your Smile Brightens the World</div>
+    </div>
+    <div id="blockPhone">
+      <div id="titlePhone">856.352.6572 (office)</div>
+      <div id="titlePhone">856.352.6710 (fax)</div>
+    </div>
 
-    <?php include '_nav.php'; ?>
-
-
+    <!-- <div id="logo"><img src="../img/logo.png" alt="MedCorps logo"/></div> -->
+  </div>
+  <div class="navCon"><?php include '_nav.php'; ?></div>
 </div>
-</div>
-<div class="main_con">

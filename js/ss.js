@@ -2,9 +2,9 @@ $("#slideshow > div:gt(0)").hide();
 
 setInterval(function() { 
   $('#slideshow > div:first')
-    .fadeOut(1000)
+    .fadeOut(800)
     .next()
-    .fadeIn(1000)
+    .fadeIn(800)
     .end()
     .appendTo('#slideshow');
 },  9000);

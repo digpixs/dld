@@ -1,9 +1,11 @@
-<nav class="nav">
+<div class="navCon">
+  <div class="nav">
     <ul class="nav-list">
-        <li class="nav-item" id="link"><a href="index.php">Home</a></li>   
-        <li class="nav-item" id="link"><a href="about.php">About Us</a></li>
-        <li class="nav-item" id="link"><a href="patcare.php">Patient Care</a></li>   
-        <li class="nav-item" id="link"><a href="smile.php">Smile Isle</a></li>
-        <li class="nav-item" id="link"><a href="direction.php">Directions</a></li>
-    </ul> 
-</nav>
+        <li class="nav-item" id="link"><a href="index.php">HOME</a></li>
+        <li class="nav-item" id="link"><a href="about.php">ABOUT US</a></li>
+        <li class="nav-item" id="link"><a href="patcare.php">PATIENT CARE</a></li>
+        <li class="nav-item" id="link"><a href="smile.php">SMILE ISLE</a></li>
+        <li class="nav-item" id="link"><a href="dir.php">DIRECTIONS</a></li>
+    </ul>
+  </div>
+</div>
