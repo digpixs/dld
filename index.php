@@ -38,8 +38,8 @@
       <div id="titleName">Because Your Smile Brightens the World</div>
     </div>
     <div id="blockPhone">
-      <div id="titlePhone">856.352.6572 (office)</div>
-      <div id="titlePhone">856.352.6710 (fax)</div>
+      <div id="titlePhone">856.875.8400 (Office)</div>
+      <div id="titlePhone">609.221.2964 (Emrg)</div>
     </div>
   </div>
 </div>

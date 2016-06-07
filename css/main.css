@@ -23,7 +23,7 @@ img {
 
 h1 {
     font-size: 1.25em;
-    color: #1d4094;
+    color: #277646;
 }
 
 h2 {
@@ -99,8 +99,8 @@ input, textarea, select {
   height: 150px;
   float: none;
   color: #ffffff;
-  background-color: #1d4094;
-  border-top: 3px solid #8e9fc9;
+  background-color: #277646;
+  border-top: 3px solid #aaf658;
 }
 
 .header {
@@ -113,7 +113,7 @@ input, textarea, select {
   width: 1024px;
   height: 100px;
   float: none;
-  background-color: #1d4094;
+  background-color: #277646;
 }
 
 .mainWrap {
@@ -129,7 +129,7 @@ input, textarea, select {
   width: 100%;
   max-width: 1024px;
   height: 50px;
-  background-color: #8e9fc9;
+  background-color: #6ba143;
   float: none;;
 }
 
@@ -309,7 +309,7 @@ input, textarea, select {
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
-    border: 4px solid #8e9fc9;
+    border: 4px solid #6ba143;
     float: none;
     overflow: hidden;
 }
@@ -424,7 +424,7 @@ input, textarea, select {
     width: 100%;
     height: 600px;
     float: left;
-    border-top: 2px solid #8e9fc9;
+    border-top: 2px solid #6ba143;
     background-color: #dcdcdc;
 }
 
@@ -917,7 +917,7 @@ h1 {
 }
 
 #titlePhone{
-  font-size: 1.75em;
+  font-size: 1.5em;
 }
 
 #titleAdd{
