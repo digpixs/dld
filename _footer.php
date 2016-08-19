@@ -21,10 +21,10 @@
 			<div itemscope itemtype="http://schema.org/Dentist">
 			<span itemprop="name">Dayspring Laser Dentistry</span>
 					<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-					<span itemprop="streetAddress">188 Fries Mill Rd E2</span>
-					<span itemprop="addressLocality">Turnersville</span>,
+					<span itemprop="streetAddress">428 Ganttown Rd</span>
+					<span itemprop="addressLocality">Washington Township</span>,
 					<span itemprop="addressRegion">NJ</span>
-					<span itemprop="postalCode">08012</span>
+					<span itemprop="postalCode">08080</span>
 					</div>
 			Phone: <span itemprop="telephone">(856) 875-8400</span><br>
 					Emergency: (609) 221-2964<br>

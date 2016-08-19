@@ -20,7 +20,7 @@
 		<p>Six month braces are thin, tooth-colored wires attached to your front teeth, gradually moving them to their ideal position. Although they are called “six month braces,” the treatment time commonly ranges between four to nine months. These braces are also
 		designed to focus solely on the front teeth and do not provide major improvements to bite issues. However, if you do not have a major dental issue and your goal is to prevent self-consciousness in social situation, then this treatment plan is perfect for you.</p></br>
 
-		<p>For more information about six month braces and other orthodontics treatments, <a href="http://www.dayspringlaserdentistry.com/contact.php">contact</a> your Turnersville, NJ, dentist today!</p>
+		<p>For more information about six month braces and other orthodontics treatments, <a href="index.php#infoCon">contact</a> your Turnersville, NJ, dentist today!</p>
 
 	</div>
 	<div id="servCon"><?php include '_services.php'; ?></div>

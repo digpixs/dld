@@ -73,8 +73,8 @@
   <div id="constr">
     <div id="hp_con"><img src="img/dld_ext_01.jpg"/> </div>
     <div id="hp_con_de">
-      <h1>Coming Soon - <a href="construction.php">CLICK here to view the progress</a></h1></br>
-      <p>We are planning on periodic updates of our construction, so here is the first installment. Demolition has started, so the inside is now gutted in preparation for the walls to be removed and changed. Exciting times! Can't wait to see the finished result!</p>
+      <h1>NEW OFFICE, same great people</h1></br>
+      <p>Please join us as we celebrate the opening of our new office.  We are located at 428 Ganttown Rd Washington Township, NJ 08080. Our location may have changed, but not our commitment to giving you the best dental experience in a friendly, comfortable, and stress free atmosphere.</p>
     </div>
   </div>
 
