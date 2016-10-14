@@ -1,13 +1,5 @@
 <div class="footer">
 	<div class="footerWrap">
-		<div id="soc_media">
-			<h3>Stay Connected</h3></br>
-			<a href="https://www.facebook.com/pages/The-Dayspring-Center-for-Laser-Dentistry/56963027218" target="_blank">
-			<img src="img/bt_fb.png" alt="Dayspring Facebook"></a>
-			<a href="https://plus.google.com/101419935376583771841/about?hl=en" target="_blank"><img src="img/bt_gp.png" alt="Dayspring Google Plus"></a>
-			<a href="https://21centurydentistry.wordpress.com/" target="_blank"><img src="img/bt_blog.jpg" alt="21 century dentistry blog"></a>
-		</div>
-
 
 		<div id="assc">
 			<h3>Associations</h3>
@@ -19,7 +11,7 @@
 
 		<div id="footAdd">
 			<div itemscope itemtype="http://schema.org/Dentist">
-			<span itemprop="name">Dayspring Laser Dentistry</span>
+			<span itemprop="name">Dayspring Dental</span>
 					<div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
 					<span itemprop="streetAddress">428 Ganttown Rd</span>
 					<span itemprop="addressLocality">Washington Township</span>,
@@ -32,7 +24,7 @@
 			</div>
 		</div>
 	</div>
-	<div id="#" style="text-align:center;font-size:.75em;">©2016 Dayspring Laser Dentistry</div>
+	<div id="#" style="text-align:center;font-size:.75em;">©2016 Dayspring Dental</div>
 </div> <!-- end of footer container -->
 
 <!-- google analitics -->

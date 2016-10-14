@@ -1,5 +1,5 @@
 <div id="form_con">
-       <h1>Set an Appointment</h1></br>
+       <h1>Make an Appointment</h1></br>
             <p>Please Choose the Month, Date or Day, and time of the day you would like your appointment, and we will contact you regarding availability.</p>
 
             <form id="form1" name="form1" method="post" action="app_send.php">

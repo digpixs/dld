@@ -223,6 +223,34 @@ input, textarea, select {
 	width: 800px;
 }
 
+ul.socialicons {
+	list-style: none;
+	overflow: auto;
+}
+ul.socialicons li {
+	width: 32px;
+	height: 33px;
+	padding: 0 10px 0 0;
+	float: left;
+}
+ul.socialicons li a {
+	width: 32px;
+	height: 33px;
+	display: block;
+	background: url(/img/socicon.png) no-repeat;
+}
+
+ul.socialicons li a.facebook 	{ background-position: 0 -224px; }
+ul.socialicons li a.facebook:hover	{ background-position: 0 0; }
+
+ul.socialicons li a.googleplus 	{ background-position: -128px -224px; }
+ul.socialicons li a.googleplus:hover	{ background-position: -128px 0; }
+
+ul.socialicons li a.blog 	{ background-position: -253px -267px; }
+ul.socialicons li a.blog:hover	{ background-position: -253px -43px; }
+
+
+
 
 /* CSS id mods */
 
@@ -241,7 +269,7 @@ input, textarea, select {
 }
 
 #assc {
-  width: 33%;
+  width: 50%;
   height: 100px;
   padding: 10px 0 0 20px;
   float: left;
@@ -537,6 +565,12 @@ input, textarea, select {
     height: 100px;
     padding: 10px 0 0 20px;
     float: left;
+}
+
+#socialmedia {
+  margin: 20px auto;
+  height: 25px;
+  float: right;
 }
 
 #test_hp {
@@ -876,6 +910,14 @@ h1 {
     padding: 5px;
     float: left;
     text-align: center;
+}
+
+#socialmedia {
+  position: absolute;
+  margin: 8px auto;
+  height: 25px;
+  float: left;
+  left: 15px;
 }
 
 #slideshow > div {
